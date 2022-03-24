@@ -10,6 +10,7 @@ export const modulesOptions = {
   "@modules/app-menu": {
     copy: "Routes available!"
   },
+
   "@modules/login": {
     LOGO_URL:
       "https://crowdbotics-slack-dev.s3.amazonaws.com/media/project_component_resources/cb-icon.png",
